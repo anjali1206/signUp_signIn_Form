@@ -1,0 +1,70 @@
+body, html{
+	background-color: #D5B9D5;
+	background-attachment: fixed; /* fixed =parralax effect */
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100%;
+	margin: 0;
+	font-size: 16px;
+	font-family: "Lato" sans-serif;
+	font-weight: 400;
+	line-height: 1.8em;
+	color: #262626;
+}
+
+.navbar{
+	padding: 10px 35px;
+	background-color: #660066;
+  margin-bottom:20px;
+}
+
+.navbar-brand{
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #e6e6e6;
+  text-decoration:none;
+  text-decoration-line: none;
+  cursor: pointer;
+}
+
+.login, .loginBtn{
+  margin: 0px 3px;
+  padding: 5px 7px;
+  letter-spacing:0.8px;
+}
+
+.form-control{
+  background-color: #FEF5F4;
+}
+/* navbar, header styling done */
+
+/* sign-up styling */
+#signup{
+  position: relative;
+  margin-top:10%;
+  text-align: center;
+  width: 30%;
+  padding: 10px 0px;
+  font-size:25px;
+}
+
+.form{
+  margin: 15px 0px;
+}
+
+.signupBtn{
+  margin: 10px 0px;
+}
+
+.form-control, .signupBtn{
+  letter-spacing:0.8px;
+}
+
+
+/* sign-up styling done*/
+
+
+
+
